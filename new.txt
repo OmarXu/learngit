@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>菜鸟教程</title>
+</head>
+<body>
+    <h1>我的第一个标题</h1>
+    <h2>这是一个标题</h2>
+    <h3>这是一个标题</h3>
+    <p>我的第一个段落</p>
+    <P>这是另一个段落</P>
+    <a href="http://www.runoob.com">这是一个链接</a>
+    <img src="E:/Projects/test/WebApplication7/images/IMG_0028.png" width="258" height="39"></body>
+</html>
